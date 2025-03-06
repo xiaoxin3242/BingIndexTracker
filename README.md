@@ -22,7 +22,7 @@
 1. 确保已安装Python 3.6或更高版本
 2. 克隆此仓库：
    ```
-   git clone https://github.com/yourusername/BingIndexTracker.git
+   git clone https://github.com/xiaoxin3242/BingIndexTracker.git
    cd BingIndexTracker
    ```
 3. 安装colorama库：
