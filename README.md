@@ -1,6 +1,6 @@
 一款轻量级Python工具，用于批量检测域名在Bing搜索引擎中的收录情况。具有彩色命令行界面、自动保存机制和详细的HTML分析功能，无需第三方依赖。
 
-![BingIndexTracker界面预览](https://i.imgur.com/example.png)
+![BingIndexTracker界面预览](https://img.xiaoxinbk.cn/Upload/85b31d1ac90f856dc90173f8247a6ab4.jpg)
 
 ## ✨ 功能特点
 
