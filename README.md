@@ -15,7 +15,7 @@
 
 ### 方法1：直接下载可执行文件
 
-从[Releases](https://github.com/yourusername/BingIndexTracker/releases)页面下载最新的可执行文件，无需安装Python环境。
+从[Releases](https://github.com/xiaoxin3242/BingIndexTracker/releases)页面下载最新的可执行文件，无需安装Python环境。
 
 ### 方法2：从源码运行
 
@@ -78,7 +78,7 @@ test-site.net
 ## 🔗 相关链接
 
 - [博客文章：如何批量检查网站收录情况](http://blog.xiaoxinbk.cn)
-- [提交问题或建议](https://github.com/yourusername/BingIndexTracker/issues)
+- [提交问题或建议](https://github.com/xiaoxin3242/BingIndexTracker/issues)
 
 ## ⭐ 支持项目
 
